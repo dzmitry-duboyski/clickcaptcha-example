@@ -1,3 +1,6 @@
+![image](https://github.com/dzmitry-duboyski/clickcaptcha-example/assets/38065632/91e26e72-41ca-4c7c-94b7-bdd0c37dcbcc)
+
+
 # Example for solving clickcaptcha (coordinates) in python
 
 Clickcaptcha (coordinates) is a captcha in which you need to click on the image in accordance with the instructions.
